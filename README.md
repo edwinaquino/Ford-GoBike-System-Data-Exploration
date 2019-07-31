@@ -29,15 +29,15 @@ My interest was to capture how the system was being used by daily local commuter
 
 ## Getting Started
 To get started you can download a copy from this repository. This repository contains 3 files:
+
 **Bike_Share_Part1_Exploratory.html**
-> A report with exploratory data analysis HTML format. This project involves gathering data from the Ford GoBike System. The goal for this project is to wrangle Ford GoBike System Data to create interesting and trustworthy analyses and visualizations.
+A report with exploratory data analysis HTML format. This project involves gathering data from the Ford GoBike System. The goal for this project is to wrangle Ford GoBike System Data to create interesting and trustworthy analyses and visualizations.
 
 **Bike_Share_Part2_Explanatory.html**
-> A report with explanatory data analysis HTML format. The data from the Ford GoBike System consists of over 2 million records.
+A report with explanatory data analysis HTML format. The data from the Ford GoBike System consists of over 2 million records.
 
 **Bike_Share_Part2_Explanatory.slides.html**
 A slide deck presentation with  explanatory analysis HTML format
-
 
 ### Prerequisites
 
